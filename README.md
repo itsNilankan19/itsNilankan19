@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nilankan Pal</h1>
-<h3 align="center">A passionate Frontend React developer from India also aspiring to be a Data Scientist</h3>
+<h3 align="center">A passionate Frontend React developer also an aspiring Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsnilankan19&label=Profile%20views&color=0e75b6&style=flat" alt="itsnilankan19" /> </p>
 
