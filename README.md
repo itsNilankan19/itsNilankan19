@@ -25,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsnilankan19&show_icons=true&locale=en&layout=compact" alt="itsnilankan19" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsnilankan19&show_icons=true&locale=en" alt="itsnilankan19" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsnilankan19&" alt="itsnilankan19" /></p>
